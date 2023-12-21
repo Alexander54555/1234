@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\Пользователь\source\repos\calculator\calculator\MyForm.h(475,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Пользователь\source\repos\calculator\calculator\MyForm.h(483,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Пользователь\source\repos\calculator\calculator\MyForm.h(510,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  calculator.vcxproj -> C:\Users\Пользователь\source\repos\calculator\x64\Debug\calculator.exe
